@@ -1,0 +1,122 @@
+body
+{
+  background: url("images/lisere.jpg") repeat-y rgba(241,228,228,0.5);
+  font-family: 'Arima Madurai';
+  margin-left: 10%;
+}
+
+.reih1
+{
+  border-bottom: 1px solid black;
+  color: black;
+  font-size: 150%;
+  display: inline-block;
+  line-height: 105%;
+  text-shadow: 1px 1px 1px rgb(134,29,44);
+}
+
+.hinoh1
+{
+	color: rgb(134,29,44);
+  border-top: 1px solid black;
+  font-size: 150%;
+  display: inline-block;
+  line-height: 130%;
+  text-shadow: 1px 1px 1px black;
+
+}
+
+.head
+{
+  font-weight: bold;
+  font-size: 1.1em;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+}
+
+.imageflottante
+{
+  float: left;
+  border-radius: 50%;
+  margin: 2% 10% 0 0;
+  width: 40%;
+  height: 40%;
+  box-shadow: 1px 1px 4px black;
+}
+
+.bouton1
+{
+  text-decoration: none;
+  font-weight: normal;
+  border-radius: 30px;
+  color: white;
+  display: inline-block;
+  width: 30%;
+  background: rgb(134,29,44);
+  font-size: 80%;
+  box-shadow: 2px 2px 2px black;
+}
+
+a:hover
+{
+  transform: scale(0.98);
+  box-shadow: 1px 1px 1px black;
+  background: rgb(180,27,57);
+}
+
+header h1
+{
+  text-align: center;
+}
+
+p
+{
+  color: black;
+}
+
+h2
+{ 
+  text-decoration: overline underline black;
+  color: darkred;
+  text-align: left; 
+  font-family: 'Arima Madurai', arial;
+}
+
+ul
+{
+  color: black;
+}
+
+span
+{
+  color: rgb(106,53,53);
+  font-weight: bold;
+}
+
+#conteneur
+{
+  display: flex;
+  justify-content: space-around;
+  text-align: justify;
+}
+
+.bloc1
+{
+  width: 26%;
+}
+
+.bloc2
+{
+  width: 26%;
+}
+
+.bloc3
+{
+  width: 26%;
+}
+
+section h2
+{
+  text-align: center;
+}
