@@ -1,6 +1,6 @@
 body
 {
-  background: url("images/lisere.jpg") repeat-y rgba(241,228,228,0.5);
+  background: url("images/lisere.jpg") repeat-y  rgba(241,228,228,0.5);
   font-family: 'Arima Madurai';
   margin-left: 10%;
 }
@@ -119,4 +119,31 @@ span
 section h2
 {
   text-align: center;
+}
+
+@media screen and (max-width: 950px)
+{
+  body
+  {
+    background-image: none; 
+    background-color: rgba(241,228,228,0.5);
+    margin:0;
+  }
+
+  .head
+  {
+    width: auto;
+  }
+
+  .imageflottante
+  {
+    margin: auto;
+    margin-left: 10%;
+  }
+
+  #conteneur
+  {
+    display: block;
+    width: 350%;
+  }
 }
