@@ -143,13 +143,12 @@ section h2
   header p
   {
     width: 80%;
-    padding-right: 40px;
   }
 
   .imageflottante
   {
     margin: auto;
-    margin-left: 2%;
+    margin-left: 5%;
   }
 
   #conteneur
@@ -160,16 +159,16 @@ section h2
 
   .bloc1
   {
-    width: 90%;
+     width: 95%;
   }
 
   .bloc2
   {
-    width: 90%;
+    width: 95%;
   }
 
   .bloc3
   {
-    width: 90%;
+    width: 95%;
   }
 }
