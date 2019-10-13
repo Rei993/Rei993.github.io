@@ -131,7 +131,7 @@ section h2
   body
   {
     background-image: none; 
-    background-color: rgba(241,228,228,0.5);
+    background-color: lavenderblush;
     margin: 0;
   }
 
@@ -148,13 +148,13 @@ section h2
   .imageflottante
   {
     margin: auto;
-    margin-left: 5%;
+    margin-left: 8%;
   }
 
   #conteneur
   {
     display: block;  
-    padding-left: 7%;
+    padding-left: 10%;
   }
 
   .bloc1
