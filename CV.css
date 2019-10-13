@@ -155,7 +155,21 @@ section h2
   #conteneur
   {
     display: block;  
-    padding-left: 3%;
-    width: 350%;
+    padding-left: 7%;
+  }
+
+  .bloc1
+  {
+    width: 90%;
+  }
+
+  .bloc2
+  {
+    width: 90%;
+  }
+
+  .bloc3
+  {
+    width: 90%;
   }
 }
